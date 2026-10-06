@@ -53,6 +53,7 @@ O projeto foi feito **duas vezes**: primeiro manualmente, clique a clique, e dep
 ```
 ├── dashboard_manual.pbix            # versão feita manualmente no Power BI
 ├── dashboard_manual.pdf             # as 3 páginas da versão manual
+├── dashboard_ia.pdf                 # as 3 páginas da versão com IA
 ├── versao_ia_claude_code.zip        # versão com IA, em formato de projeto (.pbip)
 ├── medidas_dax.md                   # as 29 medidas DAX da versão manual
 ├── scripts/build.py                 # tratamento dos dados em Python
