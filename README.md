@@ -76,7 +76,10 @@ Python (pandas, NumPy) · Power BI Desktop · Power Query · DAX · Claude Code
 
 ## Próximo passo
 
-Com a mesma base, estou construindo um modelo de Machine Learning para prever a demanda.
+Com a mesma base, construí dois modelos de Machine Learning:
+
+- [Previsão de Demanda Olist](https://github.com/rafaelsimoesdev/previsao-demanda-olist): previsão do volume diário de pedidos
+- [Previsão de Atraso de Entrega](https://github.com/rafaelsimoesdev/previsao-atraso-entregas): classificação do risco de atraso de cada pedido, depois colocada em produção na [DeliveryRisk API](https://github.com/rafaelsimoesdev/deliveryrisk-api)
 
 ---
 
